@@ -38,6 +38,7 @@ This is to improve my problem-solving skills, consistency, and coding confidence
 - [Instagram (@aarohi.inframe)](https://instagram.com/aarohi.inframe)
 - [LinkedIn (Aarohi Dixit)](https://linkedin.com/in/aarohidixit)
 - [GitHub (aarohidixit)](https://github.com/aarohidixit)
+- [Leetcode (aarohidixit2831)](https://leetcode.com/u/aarohidixit2831/)
 
 ---
 
