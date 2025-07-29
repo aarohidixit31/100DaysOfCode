@@ -1,0 +1,23 @@
+🔹 Problem 1:
+Given a list of names, print only the names that start with the letter "S".
+
+🔹 Problem 2:
+Given a list of integers, print the square of each number.
+
+🔹 Problem 3:
+From a list of numbers, print only the even numbers.
+
+🔹 Problem 4:
+Given a list of strings, convert each string to uppercase and print it.
+
+🔹 Problem 5:
+Print only the numbers greater than 10 from a given list of integers.
+
+🔹 Problem 6:
+Given a list of names, print those that have length greater than 5.
+
+🔹 Problem 7:
+From a list of numbers, filter out null values and print the rest.
+
+🔹 Problem 8:
+Given a list of prices (e.g., 10.5, 20.0, 5.5), add 10% tax to each price and print the new prices.
